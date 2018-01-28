@@ -12,10 +12,8 @@
 		2E304282201D085100A6C834 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E304280201D085100A6C834 /* Main.storyboard */; };
 		2E304284201D085200A6C834 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E304283201D085100A6C834 /* Assets.xcassets */; };
 		2E304287201D085200A6C834 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E304285201D085200A6C834 /* LaunchScreen.storyboard */; };
-		2E30428F201D34EE00A6C834 /* x filled.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E30428E201D34ED00A6C834 /* x filled.png */; };
 		2E304291201D34FF00A6C834 /* x letter.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E304290201D34FF00A6C834 /* x letter.png */; };
 		2E304293201D350500A6C834 /* o letter.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E304292201D350500A6C834 /* o letter.png */; };
-		2E304295201D350D00A6C834 /* o filled.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E304294201D350D00A6C834 /* o filled.png */; };
 		2E304299201D35F400A6C834 /* board - PFG646T.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E304298201D35F400A6C834 /* board - PFG646T.png */; };
 /* End PBXBuildFile section */
 
@@ -27,10 +25,8 @@
 		2E304283201D085100A6C834 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E304286201D085200A6C834 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E304288201D085200A6C834 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2E30428E201D34ED00A6C834 /* x filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "x filled.png"; sourceTree = "<group>"; };
 		2E304290201D34FF00A6C834 /* x letter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "x letter.png"; sourceTree = "<group>"; };
 		2E304292201D350500A6C834 /* o letter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "o letter.png"; sourceTree = "<group>"; };
-		2E304294201D350D00A6C834 /* o filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "o filled.png"; sourceTree = "<group>"; };
 		2E304298201D35F400A6C834 /* board - PFG646T.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "board - PFG646T.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,8 +67,6 @@
 				2E304285201D085200A6C834 /* LaunchScreen.storyboard */,
 				2E304288201D085200A6C834 /* Info.plist */,
 				2E304290201D34FF00A6C834 /* x letter.png */,
-				2E30428E201D34ED00A6C834 /* x filled.png */,
-				2E304294201D350D00A6C834 /* o filled.png */,
 				2E304298201D35F400A6C834 /* board - PFG646T.png */,
 				2E304292201D350500A6C834 /* o letter.png */,
 			);
@@ -139,13 +133,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E304293201D350500A6C834 /* o letter.png in Resources */,
-				2E304295201D350D00A6C834 /* o filled.png in Resources */,
 				2E304287201D085200A6C834 /* LaunchScreen.storyboard in Resources */,
 				2E304299201D35F400A6C834 /* board - PFG646T.png in Resources */,
 				2E304284201D085200A6C834 /* Assets.xcassets in Resources */,
 				2E304291201D34FF00A6C834 /* x letter.png in Resources */,
 				2E304282201D085100A6C834 /* Main.storyboard in Resources */,
-				2E30428F201D34EE00A6C834 /* x filled.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
