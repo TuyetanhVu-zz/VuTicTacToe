@@ -127,7 +127,7 @@
                                 <color key="backgroundColor" red="0.58081901069999997" green="0.088427625600000004" blue="0.31863921880000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="6Lf-og-adg"/>
-                                    <constraint firstAttribute="width" constant="219" id="zkg-pc-kgy"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="219" id="zkg-pc-kgy"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="25"/>
                                 <state key="normal" title="PLAY AGAIN">
